@@ -1,0 +1,9 @@
+# Lean build artifacts
+.lake/
+
+# Vendored upstream clones (re-clone to reproduce the analysis context)
+bitcoin-core/
+rust-miniscript/
+
+# OS noise
+.DS_Store
